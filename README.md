@@ -32,11 +32,12 @@
 
  I left the Native Games folder alone for now as I personally think if either the FunKey Team or DrUm78 start shipping their OSes with any Native Games that it would be cool to keep those. You can always edit the script to include this folder if you so choose.
 
- I also left alone the other folders as they contain critical or various other info that I think should be left alone imo.
+ I also left alone the other folders as they contain critical or various other info that I feel should be left alone unless you know what you're doing.
 
  ## Links
 
  [FunKey Main Page](https://www.funkey-project.com/)  
  [FunKey Store](https://funkey-project.myshopify.com/collections/frontpage)  
+ [FunKey Discord](https://discord.com/invite/u84XEhqzJF)  
  [FunKey OS](https://github.com/FunKey-Project/FunKey-OS)  
  [DrUm78 OS Fork](https://github.com/DrUm78/FunKey-OS/releases)  
