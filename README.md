@@ -6,9 +6,9 @@
 
  1. Place the FunKeyCleanup.ps1 file in the base folder for the FunKey
 
- It should look something like this
+    It should look something like this
 
- ![](Images/FunKeyRootFolder.png)
+    ![](Images/FunKeyRootFolder.png)
 
  2. Right click this file and select "Run with PowerShell"
 
