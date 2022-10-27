@@ -8,7 +8,7 @@
 
  It should look something like this
 
- ![FunKey OS Root Folder](image.png)
+ ![](image.png)
 
  2. Right click this file and select "Run with PowerShell"
 
