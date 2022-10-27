@@ -8,7 +8,7 @@
 
  It should look something like this
 
- ![](image.png)
+ ![](FunKeyRootFolder.png)
 
  2. Right click this file and select "Run with PowerShell"
 
@@ -36,7 +36,7 @@
 
  ## Links
 
- [FunKey Main Page](https://www.funkey-project.com/)
- [FunKey Store](https://funkey-project.myshopify.com/collections/frontpage)
- [FunKey OS](https://github.com/FunKey-Project/FunKey-OS)
- [DrUm78 OS Fork](https://github.com/DrUm78/FunKey-OS/releases)
+ [FunKey Main Page](https://www.funkey-project.com/)  
+ [FunKey Store](https://funkey-project.myshopify.com/collections/frontpage)  
+ [FunKey OS](https://github.com/FunKey-Project/FunKey-OS)  
+ [DrUm78 OS Fork](https://github.com/DrUm78/FunKey-OS/releases)  
