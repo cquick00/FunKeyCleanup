@@ -40,4 +40,4 @@
  [FunKey Store](https://funkey-project.myshopify.com/collections/frontpage)  
  [FunKey Discord](https://discord.com/invite/u84XEhqzJF)  
  [FunKey OS](https://github.com/FunKey-Project/FunKey-OS)  
- [DrUm78 OS Fork](https://github.com/DrUm78/FunKey-OS/releases)  
+ [DrUm78 FunKey OS Fork](https://github.com/DrUm78/FunKey-OS/releases)  
