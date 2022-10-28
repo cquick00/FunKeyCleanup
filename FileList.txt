@@ -20,7 +20,6 @@ Game Boy\Snake.gb
 Game Boy\Snake.png
 Game Boy\The bouncing ball.gb
 Game Boy\The bouncing ball.png
-Game Boy Advance\Copyrights.txt
 Game Boy Advance\Anguna - Warriors of Virtue.gba
 Game Boy Advance\Anguna - Warriors of Virtue.png
 Game Boy Advance\Another World.gba
