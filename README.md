@@ -4,7 +4,7 @@
 
  ## Instructions
 
- 1. Place the FunKeyCleanup.ps1 file in the base folder for the FunKey
+ 1. Place the FunKeyCleanup.ps1 file and the FileList.txt file in the root folder for the FunKey
 
     It should look something like this
 
@@ -14,25 +14,7 @@
 
  ## Notable Information
 
- The folders that arer currently being cleaned out are the following:
-
- - Atari Lynx
- - Game Boy
- - Game Boy Advance
- - Game Boy Color
- - Game Gear
- - Neo Geo Pocket
- - NES
- - PCE-TurboGrafx
- - PS1
- - Sega Genesis
- - Sega Master System
- - SNES
- - WonderSwan
-
- I left the Native Games folder alone for now as I personally think if either the FunKey Team or DrUm78 start shipping their OSes with any Native Games that it would be cool to keep those. You can always edit the script to include this folder if you so choose.
-
- I also left alone the other folders as they contain critical or various other info that I feel should be left alone unless you know what you're doing.
+ The files that are currently being cleaned out of the system can be seen in the FileList.txt file. If there's a default file you'd like to not remove, please take it out of the list before running!
 
  ## Links
 
