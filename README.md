@@ -10,7 +10,7 @@
 
     ![](Images/FunKeyRootFolder.png)
 
- 2. Right click this file and select "Run with PowerShell"
+ 2. Right click the FunKeyCleanup.ps1 file and select "Run with PowerShell"
 
  ## Notable Information
 
